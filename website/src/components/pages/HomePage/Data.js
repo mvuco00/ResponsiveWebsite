@@ -2,26 +2,26 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "Exclusive Access",
-  headline: "Unlimited Transactions with zero fees",
+  topLine: "NOTES",
+  headline: "Capture ideas and find them fast",
   description:
-    "Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees",
+    "Express ideas, capture images, and record audio in meetings or lectures, all from your phone or tablet—even if you’re offline.",
   buttonLabel: "Get Started",
   imgStart: "",
-  img: "images/svg-1.svg",
-  alt: "Credit Card",
+  img: "images/notes.svg",
+  alt: "Notes",
 };
 export const homeObjTwo = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "100% SECURE",
-  headline: "Stay protected 24/7 anywhere anytime",
+  topLine: "APP INTERGRATIONS",
+  headline: "Share content across apps",
   description:
-    "We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime",
+    "Respo connects with the productivity tools you already use, so you can work your way.",
   buttonLabel: "Learn More",
   imgStart: "",
-  img: "images/svg-5.svg",
+  img: "images/integration.svg",
   alt: "Vault",
 };
 
@@ -29,26 +29,12 @@ export const homeObjThree = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: "EASY SETUP",
-  headline: "Super fast and simple onboarding process",
+  topLine: "Web Clipper",
+  headline: "Super fast and simple process",
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
+    "Save web pages (without the ads) and mark them up with arrows, highlights, and text to make them more useful.",
   buttonLabel: "Start Now",
   imgStart: "start",
-  img: "images/svg-7.svg",
-  alt: "Vault",
-};
-
-export const homeObjFour = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: "DATA ANALYTICS",
-  headline: "Every transaction is stored on our secure cloud database",
-  description:
-    "Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.",
-  buttonLabel: "Sign Up Now",
-  imgStart: "start",
-  img: "images/svg-8.svg",
-  alt: "Vault",
+  img: "images/notebook.svg",
+  alt: "Clipper",
 };

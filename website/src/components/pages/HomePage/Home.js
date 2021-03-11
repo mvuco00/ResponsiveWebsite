@@ -7,7 +7,6 @@ const Home = () => {
       <Section {...homeObjOne} />
       <Section {...homeObjThree} />
       <Section {...homeObjTwo} />
-      <Section {...homeObjFour} />
     </>
   );
 };
