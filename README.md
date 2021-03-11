@@ -9,8 +9,8 @@
 
 Frontend project with focus on responsive design.
 
-<img src="images/home.png" width="400">
 <p float="left">
+<img src="images/home.png" width="300">
 <img src="images/mobile1.png" width="300">
 <img src="images/mobile2.png" width="300">
 </p>
