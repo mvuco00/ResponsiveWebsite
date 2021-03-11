@@ -10,7 +10,7 @@
 Frontend project with focus on responsive design.
 
 <p float="left">
-<img src="images/home.png" width="300">
 <img src="images/mobile1.png" width="300">
 <img src="images/mobile2.png" width="300">
 </p>
+<img src="images/home.png" width="700">
