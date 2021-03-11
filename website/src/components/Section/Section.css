@@ -60,7 +60,8 @@
   max-width: 440px;
   margin-bottom: 35px;
   font-size: 18px;
-  line-height: 14px;
+  line-height: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .home__hero-img-wrapper {
